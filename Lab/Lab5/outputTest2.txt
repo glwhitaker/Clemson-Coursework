@@ -1,0 +1,15 @@
+
+Customer Invoice: 
+
+Name: Bob White
+Address: 123 Street Drive
+Email: bobwhite@gmail.com
+Student number: 87654321
+Age: 60
+Make: Tesla
+Model: Model X
+Year: 2020
+Electric Vehicle: yes
+Miles per charge: 350.000000
+Permit Type: Semester
+Permit Price: $150.000000

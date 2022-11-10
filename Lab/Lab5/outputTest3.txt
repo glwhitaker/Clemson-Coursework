@@ -1,0 +1,15 @@
+
+Customer Invoice: 
+
+Name: Will Drinnon
+Address: 1620 Spring Blossom Trail
+Email: will@gmail.com
+Reason for visit: Visiting friend
+Alumni: yes
+Make: Honda
+Model: CB350
+Year: 2000
+Color: red
+Radio: yes
+Permit Type: Daily
+Permit Price: $50.000000

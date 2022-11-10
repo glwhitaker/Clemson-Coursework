@@ -1,0 +1,13 @@
+2
+Bob White
+123 Street Drive
+bobwhite@gmail.com
+87654321
+60
+2
+Tesla
+Model X
+2020
+yes
+350
+2

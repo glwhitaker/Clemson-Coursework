@@ -1,0 +1,15 @@
+
+Customer Invoice: 
+
+Name: Grayson Whitaker
+Address: 1221 Harts Ridge Drive
+Email: glwhitaker@gmail.com
+Employee number: 12345678
+Year hired: 2020
+Make: Subaru
+Model: WRX
+Year: 2019
+License plate: QPE218
+Number of doors: 4
+Permit Type: Annual
+Permit Price: $275.000000
